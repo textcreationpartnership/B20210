@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great traveller Major J.C. one of his Majesties chymists, his most famous and in a manner miraculous necklaces ...</title>
+            <author>Choke, John.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20210</idno><idno type="EEBO-CITATION">99888685</idno>
+  <idno type="VID">195892</idno>
+  <idno type="EEBO-PROQUEST">2240902062</idno>
+  
+            <idno type="STC">Wing C3920C</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[87]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R231540</idno>
+            <idno type="PROQUEST">ocm99888685</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888685e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195892)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[88])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great traveller Major J.C. one of his Majesties chymists, his most famous and in a manner miraculous necklaces ...</title>
+                  <author>Choke, John.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Teeth --  Care and Hygiene --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195892:1"/>
+            <p>THe great <hi>TRAVELLER</hi> Major <hi>J. C.</hi> one of his Majesties Chymists, His most famous and in a manner miraculous Necklaces; one of them being of no greater weight than a small Nutmeg, absolutely easing Children in breeding Teeth and cutting without pain, thereby preventing (by Gods assistance) <hi>Feavers, Convulsions, Consumtion, Ruptures, Chincough, Rickets,</hi> &amp; such attendant Distempers, to the Admiration of thousands in the City of <hi>London</hi> and Counties adjacent, who have experienced the same, to their great com<g ref="char:EOLhyphen"/>fort, and satisfaction of the parents of the Children, that have usd them; Besides the De<g ref="char:EOLhyphen"/>crease in the bills of Mortality, apparent within these two years, not a quarter of what form<g ref="char:EOLhyphen"/>erly Dyed, in cutting and breeding Teeth; these rare Necklaces, are to be sold for the Pub<g ref="char:EOLhyphen"/>lick good, at five shillings each Necklace, with a Catalogue of many Children of Honourable and worthy Parents, and other sufficient house keepers, that have had their Children in great Extremity, who by wearing these Necklaces have recovered when there was little hopes of life: The best time to put them about the Childrens Necks is, when they are two Months old and to wear them till they have bred all their Teeth; And Children that have so worn them, have been bigger &amp; stronger at nine months old, then others at twelve months. And none are troubled with the Evil, or Falling-sickness, that have worn them according to these Directi<g ref="char:EOLhyphen"/>ons: but they are helpful at any time while they are breeding Teeth. And for the conveniency of the buyers, are to be sold at the places here under mentioned, <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>At Mr. <hi>Whiteheads</hi> at the black-Boy in <hi>Canon-street</hi> against <hi>London-stone.</hi>
+               </item>
+               <item>
+                  <hi>At</hi> Mr. <hi>Barnes,</hi> Coat-seller <hi>at the</hi> Black Boy <hi>in</hi> Cheap-side.</item>
+               <item>Mr. <hi>Barnes</hi> Coat-seller <hi>at the</hi> Cherry Tree, <hi>near</hi> Strand Bridge.</item>
+               <item>Mr. <hi>Adam Livengston</hi> Fruterer <hi>at the South entrance into the</hi> Royal Exchange <hi>London.</hi>
+               </item>
+               <item>Mr. <hi>White</hi> Grocer <hi>in the</hi> Old Bayly.</item>
+               <item>Mr. <hi>Bridges,</hi> Coat-seller <hi>at the</hi> Angel <hi>in the Strand,</hi> near <hi>Somerset House.</hi>
+               </item>
+               <item>Mr. <hi>Northcott</hi> Bookseller <hi>at St.</hi> Peters Alley <hi>end in</hi> Cornhil,</item>
+               <item>Mr. <hi>Northcott at the</hi> Marriner <hi>and</hi> Anchor <hi>upon</hi> Fish-street Hill <hi>near</hi> London Bridge.</item>
+               <item>Mr. <hi>Whisker,</hi> Upholster <hi>in</hi> King street <hi>Westminster</hi> near the <hi>Abbey</hi>
+               </item>
+               <item>Mrs. <hi>Ann Whitwood</hi> in <hi>Westminster Hall.</hi>
+               </item>
+               <item>Mr. <hi>Clarke,</hi> at the <hi>Bible</hi> and <hi>Harp</hi> in <hi>West-smithfield</hi> near the <hi>Hospital Gate.</hi>
+               </item>
+               <item>Mr. <hi>Barns,</hi> a <hi>Glass seller next dore to the</hi> Sun Tavern <hi>within Cripplegate.</hi>
+               </item>
+               <item>Mrs. <hi>Sutton</hi> Sempstress <hi>next the</hi> Rose Tavern <hi>without</hi> Temple Bar.</item>
+               <item>Mr. <hi>Green,</hi> Ironmonger <hi>against St. Dunstans Church</hi> in <hi>Fleetstreet.</hi>
+               </item>
+               <item>Mr. <hi>John Chettwin,</hi> Coatseller <hi>at the</hi> Golden Key <hi>by the</hi> Savoy.</item>
+               <item>Mr. <hi>Jeffery Kirkham next dore to the Blew Bore</hi> in <hi>the New Pallace Yard Westminster.</hi>
+               </item>
+               <item>Mrs. <hi>Hope,</hi> Bookseller <hi>at the</hi> North dore <hi>of the</hi> Royal Exchange.</item>
+               <item>Mr. Keen Shoemaker <hi>in Cock Alley</hi> in <hi>Lungate street,</hi> over against <hi>Stationers Hall.</hi>
+               </item>
+            </list>
+            <p>The aforenamed J. C. is a Lycensed Physitian, who obtain'd his knowledge in Physick for the Distempers herein mentioned, in his Travels in Forreign Nations, Viz. The <hi>Dropsy, Seurvy,</hi> which he Cureth as cheap and as soon as any pretender whatsoever, which he can make appear by a large Catalogue of the persons now living.</p>
+            <pb n="2" facs="tcp:195892:2"/>
+            <p>He had not appeared in Prin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but for the good of such as have not much money to lay out upon Physick</p>
+            <p>And such persons, as ca<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ar that they are really poor, he will Cure <hi>gratis.</hi>
+            </p>
+            <p>He Lodgeth at the <hi>Blew Bores <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> and <hi>Chequer</hi> in the <hi>Strand,</hi> an <hi>Oyl-shop,</hi> between St. <hi>Clements</hi> Church and the <hi>May-pole,</hi> near the <hi>Grayhound Tavern</hi> where he is to be spoken with every morning till ten or eleven a Clock.</p>
+            <list>
+               <head>The Names of the Parents that have made use of Major <hi>I. C.</hi> his most Virtu<g ref="char:EOLhyphen"/>ous Necklaces, for preventing the pain and danger of cutting Teeth in young Children, to their great comfort and satisfaction.</head>
+               <item>A Child of the Countess of <hi>Northumberlands.</hi>
+               </item>
+               <item>The children of the Earl of <hi>Exeter.</hi>
+               </item>
+               <item>A child of the Lady <hi>Essex Finch,</hi> Granchild to the Earl of <hi>Daintry,</hi> Lord High Chancellor of <hi>England.</hi>
+               </item>
+               <item>A child of the Lord <hi>Renylews.</hi>
+               </item>
+               <item>A child <hi>of the</hi> Lord <hi>Northand Grey</hi> in <hi>Leicester Fields.</hi>
+               </item>
+               <item>A child of the Lady <hi>Bartees,</hi> at St. <hi>James</hi>'s.</item>
+               <item>The children of Major General <hi>Edgerton.</hi>
+               </item>
+               <item>A child of Major <hi>Villers</hi> in <hi>Lecester fields.</hi>
+               </item>
+               <item>The child of Major <hi>Freeman, Governour</hi> of <hi>Sandown Castle</hi> in <hi>Kent.</hi>
+               </item>
+               <item>The children of Sir <hi>William Drak<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#oxf" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Buckingham-shire.</hi>
+               </item>
+               <item>A child of Sir <hi>Edward Turner</hi> in <hi>Essex.</hi>
+               </item>
+               <item>A child <hi>of</hi> Fran. Foster, Esq; <hi>High Sheriff</hi> of the <hi>Bishoprick</hi> of <hi>Durham.</hi>
+               </item>
+               <item>A child of Esq; <hi>Mountagues,</hi> at <hi>Epsome</hi> in <hi>Surrey.</hi>
+               </item>
+               <item>A child of the Lady <hi>Jolleys</hi> near <hi>Bloomsbury Market.</hi>
+               </item>
+               <item>A child of Mr. <hi>Jenkins,</hi> Brewer <hi>near the</hi> Horse Ferry <hi>at</hi> Westminster.</item>
+               <item>A child of Mr. <hi>Shepherds,</hi> Goldsmith, <hi>at the</hi> Vine <hi>in</hi> Lumbard-street.</item>
+               <item>A child of Mr. <hi>Ringsteads,</hi> Vintener, <hi>at the St.</hi> Pauls Head <hi>near</hi> Doctors Commons.</item>
+               <item>A child of Mr. <hi>Leaders</hi> at the <hi>Turks Head</hi> in <hi>Market street,</hi> in St. <hi>James</hi>'s.</item>
+               <item>The children of Mr. <hi>Grey,</hi> Suttler <hi>to the Kings Regiment</hi> in <hi>Scotland Yard.</hi>
+               </item>
+               <item>The children <hi>of</hi> Mrs. <hi>Sutton</hi> Sempstress, <hi>next the</hi> Rose Tavern <hi>without</hi> Temple Barr.</item>
+               <item>The child <hi>of</hi> Mr. <hi>White,</hi> Grocer <hi>in the</hi> Old Buyly, <hi>near the</hi> Sessions House.</item>
+               <item>The children <hi>of</hi> Mr. <hi>Whisker</hi> Upholster <hi>in</hi> King street <hi>Westminster,</hi> near the <hi>Abby.</hi>
+               </item>
+               <item>A child <hi>of</hi> Mr. <hi>Cadmors,</hi> Joyner <hi>in</hi> Noble street.</item>
+               <item>A child <hi>of</hi> Mr. Bricknel, <hi>Brewer</hi> in <hi>Harts Horn Lane.</hi>
+               </item>
+               <item>A child <hi>of</hi> Mr. <hi>Willis,</hi> Bookseller <hi>in</hi> King street <hi>Westminster,</hi> against Ax Yard.</item>
+               <item>A child <hi>of</hi> Mr. <hi>Hilliers,</hi> Trunkmaker <hi>at</hi> Holbourn Bridge.</item>
+               <item>A child <hi>of</hi> Mr. <hi>Bridges,</hi> Coat-seller <hi>at the</hi> Angel <hi>in the</hi> Strand, <hi>near</hi> Somerset-House.</item>
+               <item>A child <hi>of</hi> Mr. <hi>Thomsons</hi> at the <hi>Swan</hi> and <hi>Ball,</hi> near the <hi>Horse Ferry</hi> at <hi>Westminster.</hi>
+               </item>
+               <item>The children <hi>of</hi> Mr. <hi>Yearly,</hi> Chandler, <hi>next</hi> Ely House <hi>in</hi> Holbourn.</item>
+               <item>A child <hi>of</hi> Mr. <hi>Saunders</hi> in <hi>Swan Yard</hi> against <hi>Sommerset House</hi> in the <hi>Strand</hi>
+               </item>
+               <item>The children of Mr. <hi>Barnes</hi> a <hi>Glass seller next dore to the Sun Tavern</hi> within <hi>Criipplegat<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
